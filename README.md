@@ -22,7 +22,7 @@
 ## 📸 Screenshots  
 Check out how **TextUtils** looks in action!  
 
-🖼️ **[Click here to view Screenshots](screenshot.png)**  
+🖼️ **🖼️ [**Click here to view Screenshots**](public/screenshot.png)**  
 
 ---
 
