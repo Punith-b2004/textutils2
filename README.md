@@ -36,7 +36,8 @@ Get started with TextUtils on your local machine:
 
 🔥 Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/textutils.git
+git clone https://github.com/Punith-b2004/textutils.git
+
 cd textutils
 
 📦 Install Dependencies
