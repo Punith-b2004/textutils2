@@ -17,7 +17,7 @@ You can view a live demo of the project here:
 📸 Screenshots
 Here’s how the TextUtils app looks:
 
-![App Screenshot](https://raw.githubusercontent.com/YOUR-USERNAME/textutils/main/public/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/Punith-b2004/textutils2/main/public/screenshot.png)
 
 🛠 Tech Stack
 Frontend: React.js
