@@ -77,7 +77,5 @@ All contributions are welcome! 🎉
 Contact
 📧 Email: puneethgowda91081@gmail.com 🔗 LinkedIn: (https://www.linkedin.com/in/punith-b-aa264b282/)
 
-📜 License
 
-This project is open-source and free to use under the MIT License.
 
