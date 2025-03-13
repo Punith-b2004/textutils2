@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+TextUtils
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📌 Overview
+TextUtils is a powerful text utility application built with React.js. It allows users to manipulate and analyze text with various features such as text conversion, removal of extra spaces, word and character count, and more.
 
-## Available Scripts
+🚀 Features
+✔ Convert text to UPPERCASE and lowercase
+✔ Remove extra spaces
+✔ Copy text to clipboard
+✔ Word & Character count
+✔ Dark Mode for better readability
 
-In the project directory, you can run:
+🌐 Live Demo
+You can view a live demo of the project here:
+🔗 Live Demo (https://punith-b2004.github.io/textutils2/))
 
-### `npm start`
+📸 Screenshots
+Here’s how the TextUtils app looks:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![App Screenshot](https://raw.githubusercontent.com/YOUR-USERNAME/textutils/main/public/screenshot.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🛠 Tech Stack
+Frontend: React.js
+Styling: Bootstrap 5
 
-### `npm test`
+💻 Installation & Setup
+Clone the repository:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+bash
+Copy
+Edit
+git clone https://github.com/YOUR-USERNAME/textutils.git
+cd textutils
+Install dependencies:
 
-### `npm run build`
+bash
+Copy
+Edit
+npm install
+Start the development server:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+bash
+Copy
+Edit
+npm start
+The app will run at http://localhost:3000/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🚀 Deployment
+You can deploy this project using:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Vercel
+Netlify
+GitHub Pages
+📢 Contributing
+Contributions are welcome! Follow these steps to contribute:
 
-### `npm run eject`
+Fork the repository.
+Create a new branch (feature-branch).
+Make changes and commit with a descriptive message.
+Push to GitHub and create a Pull Request (PR).
+📜 License
+This project is open-source and free to use under the MIT License.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
