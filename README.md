@@ -22,7 +22,8 @@
 ## 📸 Screenshots  
 Check out how **TextUtils** looks in action!  
 
-🖼️ **🖼️ [**Click here to view Screenshots**](public/screenshot.png)**  
+![App Screenshot](https://raw.githubusercontent.com/Punith-b2004/textutils2/main/public/screenshot.png)
+
 
 ---
 
