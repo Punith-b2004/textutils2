@@ -4,10 +4,14 @@
 
 🌟 Features at a Glance
 
-✔ Convert Text → UPPERCASE & lowercase in a click
+✔ Convert Text → UPPERCASE & lowercase in a click  
+
 ✔ Remove Extra Spaces → Get rid of unnecessary gaps
+
 ✔ Copy to Clipboard → One-click text copy
+
 ✔ Real-time Word & Character Count → Stay aware of your text stats
+
 ✔ Dark Mode Support → Switch to dark mode for better readability
 
 🌐 Live Demo
